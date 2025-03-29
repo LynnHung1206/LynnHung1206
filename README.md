@@ -14,10 +14,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center">Languages and Tools</h3>
+<h3 align="center">Languages</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,gradle,idea,linkedin,maven,kubernetes,gitlab,postgresql,notion,sublime,twitter,laravel,php,python,docker,ubuntu,mysql,redis,postman,git,github,md,bash,linux,apple,vscode,phpstorm,pycharm,gmail&perline=13" />
+    <img src="https://skillicons.dev/icons?i=java,php,python,yaml,md,bash" />
+  </a>
+</p>
+
+<h3 align="center">database</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgresql,mysql,redis,mssql" />
+  </a>
+</p>
+
+<h3 align="center">Tools</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gradle,idea,maven,kubernetes,gitlab,notion,sublime,laravel,docker,ubuntu,postman,git,github,linux,vscode,phpstorm,pycharm&perline=13" />
+  </a>
+</p>
+
+<h3 align="center">SNS</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin,twitter,apple,gmail&perline=13" />
   </a>
 </p>
