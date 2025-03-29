@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gradle,idea,maven,kubernetes,gitlab,notion,sublime,laravel,docker,ubuntu,postman,git,github,linux,vscode,phpstorm,pycharm&perline=13" />
+    <img src="https://skillicons.dev/icons?i=spring,gradle,idea,maven,kubernetes,gitlab,notion,sublime,laravel,docker,ubuntu,postman,git,github,linux,vscode,phpstorm,pycharm&perline=10" />
   </a>
 </p>
 
