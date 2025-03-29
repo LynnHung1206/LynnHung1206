@@ -54,7 +54,7 @@
   <img src="https://skillicons.dev/icons?i=spring" title="Spring Framework" />
   <img src="https://skillicons.dev/icons?i=hibernate" title="Hibernate ORM" />
   <img src="https://raw.githubusercontent.com/LynnHung1206/LynnHung1206/main/assets/mybatis.png" 
-     height="43" 
+     height="46" 
      title="MyBatis ORM" 
      style="border-radius: 8px; background-color: #f5f5f5; padding: 4px;" />
   <img src="https://skillicons.dev/icons?i=laravel" title="Laravel PHP Framework" />
@@ -66,7 +66,7 @@
 #### ☁️ DevOps / Infra
 <p align="center">
   <img src="https://skillicons.dev/icons?i=rabbitmq" title="RabbitMQ Message Broker" />
-  <img src="https://raw.githubusercontent.com/LynnHung1206/LynnHung1206/main/assets/pulsar.png" height="43" title="pulsar" />
+  <img src="https://raw.githubusercontent.com/LynnHung1206/LynnHung1206/main/assets/pulsar.png" height="46" title="pulsar" />
   <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" />
   <img src="https://skillicons.dev/icons?i=docker" title="Docker" />
   <img src="https://skillicons.dev/icons?i=ubuntu" title="Ubuntu Linux" />
@@ -75,6 +75,10 @@
   <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
   <img src="https://skillicons.dev/icons?i=git" title="Git Version Control" />
   <img src="https://skillicons.dev/icons?i=postman" title="Postman API Tool" />
+  <img src="https://raw.githubusercontent.com/LynnHung1206/LynnHung1206/main/assets/wireshark.png" 
+     height="46" 
+     title="MyBatis ORM" 
+     style="border-radius: 8px; background-color: #f5f5f5; padding: 4px;" />
 </p>
 
 #### 🧰 IDEs / Tools
