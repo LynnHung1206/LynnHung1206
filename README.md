@@ -34,9 +34,20 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,hibernate,gradle,idea,maven,rabbitmq,kubernetes,gitlab,notion,sublime,laravel,docker,ubuntu,postman,git,github,linux,vscode,phpstorm,pycharm&perline=10" />
+    <img src="https://skillicons.dev/icons?i=rabbitmq,kubernetes,docker,ubuntu,postman,linux,vscode,idea,phpstorm,pycharm,notion,sublime&perline=5" />
   </a>
 </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,hibernate,gradle,laravel,maven" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gitlab,git,github" />
+  </a>
+</p>
+
 
 <h3 align="center">SNS</h3>
 
