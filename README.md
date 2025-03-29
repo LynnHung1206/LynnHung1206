@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Lynn</h1>
 
 <!--
 **LynnHung1206/LynnHung1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h3 align="center">Languages and Tools</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,php,python,docker,mysql,redis,postman,git,github,md,bash,linux,apple,vscode,phpstorm,pycharm&perline=13" />
+  </a>
+</p>
