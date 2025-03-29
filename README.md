@@ -54,7 +54,4 @@ Here are some ideas to get you started:
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="300" align="center" src="https://github-readme-stats.vercel.app/api?username=LynnHung1206&show_icons=true&theme=dracula&locale=zh-tw&include_all_commits=true&show=reviews,discussions_started,discussions_answered" alt="LynnHung1206-stats" />
   </a>
-
-
-
 </p>
