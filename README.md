@@ -47,7 +47,7 @@
   <img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL" />
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
   <img src="https://skillicons.dev/icons?i=redis" title="Redis" />
-  <img src="https://raw.githubusercontent.com/LynnHung1206/LynnHung1206/main/assets/sqlserver-icon-1.png" height="42" title="Microsoft SQL Server" />
+  <img src="https://raw.githubusercontent.com/LynnHung1206/LynnHung1206/main/assets/SQL-Server-Logo.svg" height="42" title="Microsoft SQL Server" />
 </p>
 
 #### ⚙️ Frameworks
@@ -57,11 +57,12 @@
   <img src="https://skillicons.dev/icons?i=gradle" title="Gradle Build Tool" />
   <img src="https://skillicons.dev/icons?i=laravel" title="Laravel PHP Framework" />
   <img src="https://skillicons.dev/icons?i=maven" title="Apache Maven" />
-  <img src="https://skillicons.dev/icons?i=rabbitmq" title="RabbitMQ Message Broker" />
 </p>
 
 #### ☁️ DevOps / Infra
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=rabbitmq" title="RabbitMQ Message Broker" />
+  <img src="https://raw.githubusercontent.com/LynnHung1206/LynnHung1206/main/assets/pulsar.png" height="42" title="pulsar" />
   <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" />
   <img src="https://skillicons.dev/icons?i=docker" title="Docker" />
   <img src="https://skillicons.dev/icons?i=ubuntu" title="Ubuntu Linux" />
