@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,hibernate,gradle,laravel,maven,rabbitmq,kubernetes,docker,ubuntu,postman,linux,gitlab,git,github,vscode,idea,phpstorm,pycharm,notion,sublime&perline=13" />
+    <img src="https://skillicons.dev/icons?i=spring,hibernate,gradle,laravel,maven,rabbitmq,kubernetes,docker,ubuntu,postman,linux,gitlab,git,github,vscode,idea,phpstorm,pycharm,notion,sublime&perline=10" />
   </a>
 </p>
 <h3 align="center">SNS</h3>
@@ -47,12 +47,19 @@ Here are some ideas to get you started:
 
 <h3 align="center">GitHub Stats</h3>
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: nowrap;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=LynnHung1206&layout=donut&langs_count=7&theme=dracula&locale=zh-tw&include_all_commits=true&exclude_repo=LynnHung1206.github.io,IPET,IPET_Spring.ver" alt="LynnHung1206-top-langs" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="300" src="https://github-readme-stats.vercel.app/api?username=LynnHung1206&show_icons=true&theme=dracula&locale=zh-tw&include_all_commits=true&show=reviews,discussions_started,discussions_answered" alt="LynnHung1206-stats" />
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=LynnHung1206&layout=donut&langs_count=7&theme=dracula&locale=zh-tw&include_all_commits=true&exclude_repo=LynnHung1206.github.io,IPET,IPET_Spring.ver" alt="LynnHung1206-top-langs" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height="300" src="https://github-readme-stats.vercel.app/api?username=LynnHung1206&show_icons=true&theme=dracula&locale=zh-tw&include_all_commits=true&show=reviews,discussions_started,discussions_answered" alt="LynnHung1206-stats" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
