@@ -44,3 +44,14 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=linkedin,twitter,apple,gmail&perline=13" />
   </a>
 </p>
+
+<h3 align="center">GitHub Stats</h3>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LynnHung1206&layout=donut&langs_count=7&theme=nord&title_color=1d9bf0&icon_color=1d9bf0&bg_color=151515&border_color=323232&locale=zh-tw&include_all_commits=true" alt="goodjack-top-langs" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="300" align="center" src="https://github-readme-stats.vercel.app/api?username=LynnHung1206&show_icons=true&theme=nord&title_color=1d9bf0&icon_color=1d9bf0&bg_color=151515&border_color=323232&locale=zh-tw&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="goodjack-stats" />
+  </a>
+</p>
