@@ -77,7 +77,7 @@
   <img src="https://skillicons.dev/icons?i=postman" title="Postman API Tool" />
   <img src="https://raw.githubusercontent.com/LynnHung1206/LynnHung1206/main/assets/wireshark.png" 
      height="46" 
-     title="MyBatis ORM" 
+     title="wireshark" 
      style="border-radius: 8px; background-color: #f5f5f5; padding: 4px;" />
 </p>
 
