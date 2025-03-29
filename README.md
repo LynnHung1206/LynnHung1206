@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,datagrip,postgresql,laravel,php,python,docker,mysql,redis,postman,git,github,md,bash,linux,apple,vscode,phpstorm,pycharm&perline=13" />
+    <img src="https://skillicons.dev/icons?i=java,gradle,idea,linkedin,maven,kubernetes,gitlab,postgresql,notion,sublime,twitter,laravel,php,python,docker,ubuntu,mysql,redis,postman,git,github,md,bash,linux,apple,vscode,phpstorm,pycharm,gmail&perline=13" />
   </a>
 </p>
