@@ -47,11 +47,12 @@ Here are some ideas to get you started:
 
 <h3 align="center">GitHub Stats</h3>
 
-<p align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: nowrap;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="250" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LynnHung1206&layout=donut&langs_count=7&theme=dracula&locale=zh-tw&include_all_commits=true&exclude_repo=LynnHung1206.github.io,IPET,IPET_Spring.ver" alt="LynnHung1206-top-langs" />
+    <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=LynnHung1206&layout=donut&langs_count=7&theme=dracula&locale=zh-tw&include_all_commits=true&exclude_repo=LynnHung1206.github.io,IPET,IPET_Spring.ver" alt="LynnHung1206-top-langs" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="250" align="center" src="https://github-readme-stats.vercel.app/api?username=LynnHung1206&show_icons=true&theme=dracula&locale=zh-tw&include_all_commits=true&show=reviews,discussions_started,discussions_answered&card_width=200" alt="LynnHung1206-stats" />
+    <img height="300" src="https://github-readme-stats.vercel.app/api?username=LynnHung1206&show_icons=true&theme=dracula&locale=zh-tw&include_all_commits=true&show=reviews,discussions_started,discussions_answered" alt="LynnHung1206-stats" />
   </a>
-</p>
+</div>
+
