@@ -10,43 +10,89 @@
 
 ---
 
+### 🧭 Quick Navigation
+
+- [👩‍💻 About Me](#-about-me)
+- [🛠️ Skills](#️-skills)
+- [🌐 Connect](#-connect)
+- [📊 GitHub Stats](#-github-stats)
+- [🔥 Streak Stats](#-streak-stats)
+
+---
+
 ### 👩‍💻 About Me
 
-- 🔭 Backend Engineer now focused on **php**
+- 🔭 Backend Engineer now focused on **PHP**
 - 🌱 Learning more about **Kubernetes**, **DevOps**, and **Cloud architecture**
 - 🧠 Passionate about clean code and system design
 - 💬 Ask me about Java backend, ERP system, or distributed architecture
-- 📫 Reach me at:  [ my blog](https://lynnhung1206.github.io/) ｜ [LinkedIn](https://www.linkedin.com/in/lynn-hung-40a71a239)
+- 📫 Reach me at: [My Blog](https://lynnhung1206.github.io/) ｜ [LinkedIn](https://www.linkedin.com/in/lynn-hung-40a71a239)
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Skills
 
-#### 💻 Languages
+#### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,php,python,md,bash,vim" />
+  <img src="https://skillicons.dev/icons?i=java" title="Java" />
+  <img src="https://skillicons.dev/icons?i=php" title="PHP" />
+  <img src="https://skillicons.dev/icons?i=python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=bash" title="Bash Script" />
+  <img src="https://skillicons.dev/icons?i=md" title="Markdown" />
+  <img src="https://skillicons.dev/icons?i=vim" title="Vim" />
 </p>
 
-#### 🗃️ Database
+#### 🗃️ Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,redis" />
+  <img src="https://skillicons.dev/icons?i=postgresql" title="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=redis" title="Redis" />
+  <img src="https://raw.githubusercontent.com/LynnHung1206/LynnHung1206/main/assets/sqlserver-icon-1.png" height="42" title="Microsoft SQL Server" />
 </p>
 
-#### ⚙️ Tools & Frameworks
+#### ⚙️ Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,hibernate,gradle,laravel,maven,rabbitmq,kubernetes,docker,ubuntu,postman,linux,gitlab,git,github,vscode,idea,phpstorm,pycharm,notion,sublime&perline=10" />
+  <img src="https://skillicons.dev/icons?i=spring" title="Spring Framework" />
+  <img src="https://skillicons.dev/icons?i=hibernate" title="Hibernate ORM" />
+  <img src="https://skillicons.dev/icons?i=gradle" title="Gradle Build Tool" />
+  <img src="https://skillicons.dev/icons?i=laravel" title="Laravel PHP Framework" />
+  <img src="https://skillicons.dev/icons?i=maven" title="Apache Maven" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq" title="RabbitMQ Message Broker" />
+</p>
+
+#### ☁️ DevOps / Infra
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kubernetes" title="Kubernetes" />
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=ubuntu" title="Ubuntu Linux" />
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux" />
+  <img src="https://skillicons.dev/icons?i=gitlab" title="GitLab CI/CD" />
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git Version Control" />
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman API Tool" />
+</p>
+
+#### 🧰 IDEs / Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=idea" title="IntelliJ IDEA" />
+  <img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code" />
+  <img src="https://skillicons.dev/icons?i=phpstorm" title="PHPStorm" />
+  <img src="https://skillicons.dev/icons?i=pycharm" title="PyCharm" />
+  <img src="https://skillicons.dev/icons?i=notion" title="Notion" />
+  <img src="https://skillicons.dev/icons?i=sublime" title="Sublime Text" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lynnhung" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://www.linkedin.com/in/lynn-hung-40a71a239" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" title="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:lynnhung1206@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" title="Gmail" />
   </a>
 </p>
 
@@ -57,14 +103,24 @@
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=LynnHung1206&layout=donut&langs_count=7&theme=dracula&locale=zh-tw&include_all_commits=true&exclude_repo=LynnHung1206.github.io,IPET,IPET_Spring.ver" alt="LynnHung1206-top-langs" />
-      </a>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=LynnHung1206&layout=donut&langs_count=7&theme=dracula&locale=zh-tw&exclude_repo=LynnHung1206.github.io,IPET,IPET_Spring.ver">
+        <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=LynnHung1206&layout=donut&langs_count=7&theme=default&locale=zh-tw&exclude_repo=LynnHung1206.github.io,IPET,IPET_Spring.ver" alt="Top Languages" />
+      </picture>
     </td>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height="300" src="https://github-readme-stats.vercel.app/api?username=LynnHung1206&show_icons=true&theme=dracula&locale=zh-tw&include_all_commits=true&show=reviews,discussions_started,discussions_answered" alt="LynnHung1206-stats" />
-      </a>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=LynnHung1206&show_icons=true&theme=dracula&locale=zh-tw&include_all_commits=true">
+        <img height="300" src="https://github-readme-stats.vercel.app/api?username=LynnHung1206&show_icons=true&theme=default&locale=zh-tw&include_all_commits=true" alt="GitHub Stats" />
+      </picture>
     </td>
   </tr>
 </table>
+
+---
+
+### 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=LynnHung1206&theme=dracula&hide_border=false&locale=zh-tw" />
+</p>
