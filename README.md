@@ -105,7 +105,7 @@
   <tr>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=LynnHung1206&layout=donut&langs_count=7&theme=dracula&locale=zh-tw&exclude_repo=LynnHung1206.github.io,IPET,IPET_Spring.ver">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=LynnHung1206&layout=donut&langs_count=5&theme=dracula&locale=zh-tw&exclude_repo=LynnHung1206.github.io,IPET,IPET_Spring.ver">
         <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=LynnHung1206&layout=donut&langs_count=7&theme=default&locale=zh-tw&exclude_repo=LynnHung1206.github.io,IPET,IPET_Spring.ver" alt="Top Languages" />
       </picture>
     </td>
