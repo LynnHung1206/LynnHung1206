@@ -14,7 +14,6 @@
 
 - [👩‍💻 About Me](#-about-me)
 - [🛠️ Skills](#️-skills)
-- [🌐 Connect](#-connect)
 - [📊 GitHub Stats](#-github-stats)
 - [🔥 Streak Stats](#-streak-stats)
 
@@ -85,19 +84,6 @@
 
 ---
 
-### 🌐 Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/lynn-hung-40a71a239" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" title="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:lynnhung1206@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" title="Gmail" />
-  </a>
-</p>
-
----
 
 ### 📊 GitHub Stats
 
