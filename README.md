@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lynn</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Backend+Engineer+from+Taiwan;Love+Cat+and+Money;Crafting+robust+backend+systems+🚀;Always+learning+%26+improving+🧠" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&duration=3500&pause=1000&color=EC407A&center=true&vCenter=true&width=500&lines=Hi,+I'm+Lynn+💖;Backend+Engineer+from+Taiwan;Loves+Cats+and+Coding+and+Money;Always+learning+%26+growing+🌱;Crafting+robust+backend+systems+🚀;Always+learning+%26+improving+🧠" />
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 ---
 
-### 🧭 Quick Navigation
+### 🌸 Navigation
 
 - [👩‍💻 About Me](#-about-me)
 - [🛠️ Skills](#️-skills)
@@ -121,7 +121,7 @@
 ### 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=LynnHung1206&theme=dracula&hide_border=false&locale=zh-tw" />
+  <img src="https://streak-stats.demolab.com?user=LynnHung1206&theme=soft-blue&hide_border=false&locale=zh-tw" />
 </p>
 
 
