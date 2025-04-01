@@ -123,3 +123,11 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=LynnHung1206&theme=dracula&hide_border=false&locale=zh-tw" />
 </p>
+
+
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=LynnHung1206&bg_color=fef4f9&color=f48fb1&title_color=ec407a&line=f06292&point=f8bbd0&radius=10" />
+  </a>
+</p>
