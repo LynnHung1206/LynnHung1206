@@ -104,13 +104,13 @@
     <td>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=LynnHung1206&layout=donut&langs_count=5&theme=dracula&locale=zh-tw&exclude_repo=LynnHung1206.github.io,IPET,IPET_Spring.ver">
-        <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=LynnHung1206&layout=donut&langs_count=5&theme=default&locale=zh-tw&exclude_repo=LynnHung1206.github.io,IPET,IPET_Spring.ver" alt="Top Languages" />
+        <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=LynnHung1206&layout=donut&langs_count=5&theme=dracula&locale=zh-tw&exclude_repo=LynnHung1206.github.io,IPET,IPET_Spring.ver" alt="Top Languages" />
       </picture>
     </td>
     <td>
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=LynnHung1206&show_icons=true&theme=dracula&locale=zh-tw&include_all_commits=true">
-        <img height="300" src="https://github-readme-stats.vercel.app/api?username=LynnHung1206&show_icons=true&theme=default&locale=zh-tw&include_all_commits=true" alt="GitHub Stats" />
+        <img height="300" src="https://github-readme-stats.vercel.app/api?username=LynnHung1206&show_icons=true&theme=dracula&locale=zh-tw&include_all_commits=true" alt="GitHub Stats" />
       </picture>
     </td>
   </tr>
