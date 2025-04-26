@@ -25,7 +25,7 @@
 - 🌱 Learning more about **Kubernetes**, **DevOps**, and **Cloud architecture**
 - 🧠 Passionate about clean code and system design
 - 💬 Ask me about Java backend, ERP system, or distributed architecture
-- 📫 Reach me at: [My Blog](https://lynnhung1206.github.io/) ｜ [LinkedIn](www.linkedin.com/in/yuling-hung-40a71a239)
+- 📫 Reach me at: [My Blog](https://lynnhung1206.github.io/) ｜ [LinkedIn](https://www.linkedin.com/in/yuling-hung-XXXXX/)
 
 ---
 
