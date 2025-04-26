@@ -25,7 +25,7 @@
 - 🌱 Learning more about **Kubernetes**, **DevOps**, and **Cloud architecture**
 - 🧠 Passionate about clean code and system design
 - 💬 Ask me about Java backend, ERP system, or distributed architecture
-- 📫 Reach me at: [My Blog](https://lynnhung1206.github.io/) ｜ [LinkedIn](https://www.linkedin.com/in/lynn-hung-40a71a239)
+- 📫 Reach me at: [My Blog](https://lynnhung1206.github.io/) ｜ [LinkedIn](www.linkedin.com/in/yuling-hung-40a71a239)
 
 ---
 
@@ -49,7 +49,7 @@
   <img src="https://raw.githubusercontent.com/LynnHung1206/LynnHung1206/main/assets/SQL-Server-Logo.svg" height="42" title="Microsoft SQL Server" />
 </p>
 
-#### ⚙️ Frameworks
+#### ⚙️ Frameworks / ORM
 <p align="center">
   <img src="https://skillicons.dev/icons?i=spring" title="Spring Framework" />
   <img src="https://skillicons.dev/icons?i=hibernate" title="Hibernate ORM" />
