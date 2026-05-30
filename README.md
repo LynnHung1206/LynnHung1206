@@ -96,7 +96,7 @@
  
 ---
 
-
+<!--
 ### 📊 GitHub Stats
 
 <table align="center">
@@ -131,3 +131,5 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=LynnHung1206&bg_color=fef4f9&color=f48fb1&title_color=ec407a&line=f06292&point=f8bbd0&radius=10" />
   </a>
 </p>
+
+-->
